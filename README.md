@@ -8,3 +8,6 @@
 
 3) portfolio page
 ![WhatsApp Image 2021-09-04 at 5 34 56 PM](https://user-images.githubusercontent.com/53312844/132118732-2bc6715f-ec06-41cc-9f59-744c3ff26329.jpeg)
+
+4) contact page
+![WhatsApp Image 2021-09-04 at 5 34 57 PM](https://user-images.githubusercontent.com/53312844/132118767-5d09536b-8b05-4997-b434-47a52d8dbe25.jpeg)
